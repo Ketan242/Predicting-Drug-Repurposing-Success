@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 11 19:20:54 2024
 
 @author: Ketan Inamdar
 """
